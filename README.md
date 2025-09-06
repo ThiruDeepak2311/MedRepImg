@@ -3,7 +3,7 @@
 ## Overview
 
 MedFusion is an AI-powered multimodal system for medical image analysis that combines advanced vision transformers with specialized language models to provide accurate diagnostic insights, medical report generation, and visual question answering for radiology images.
-![Demo](demo.mp4)
+![Demo]([demo.mp4](https://github.com/ThiruDeepak2311/MedRepImg/issues/1#issue-3389894457))
 
 ## Key Features
 
